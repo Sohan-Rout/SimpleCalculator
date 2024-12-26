@@ -124,7 +124,7 @@ int main(){
         
         else if(choice == 9){
             printf("Exiting the program\n");
-            printf("-------------------------------------------------------------\n");
+            printf("------------------Created By Sohan Rout---------------------\n");
         }
 
         else{
